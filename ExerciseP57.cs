@@ -32,7 +32,7 @@ namespace ExerciseP57
                 else
                 {
                     Console.WriteLine("");
-                    Console.WriteLine("Not a number dawg.");
+                    Console.WriteLine("Not a page number dawg.");
                 }
             } while (clearFlag == false);
 
@@ -63,12 +63,12 @@ namespace ExerciseP57
             string addFeedback = Console.ReadLine();
 
             clearFlag = false;
-            int studyHours;
+            double studyHours;
             do
             {
                 Console.WriteLine("");
                 Console.WriteLine("How many hours did you study today?");
-                if (int.TryParse(Console.ReadLine(), out studyHours))
+                if (double.TryParse(Console.ReadLine(), out studyHours))
                 {
                     clearFlag = true;
                 }
