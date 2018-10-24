@@ -87,14 +87,14 @@ namespace ExerciseP67
 
             double p1Sal = p1Rate * p1Hours;
             double p2Sal = p2Rate * p2Hours;
-            int p1SalInt = Convert.ToInt32(p1Sal);
-            int p2SalInt = Convert.ToInt32(p2Sal);
-            bool salComparison = p1SalInt > p2SalInt;
+            bool salComparison = p1Sal > p2Sal;
 
             Console.WriteLine("");
-            Console.WriteLine("Weekly Salary of Person 1: $" + p1SalInt);
+            Console.WriteLine("Weekly Salary of Person 1:");
+            Console.WriteLine("$" + p1Sal);
             Console.WriteLine("");
-            Console.WriteLine("Weekly Salary of Person 2: $" + p2SalInt);
+            Console.WriteLine("Weekly Salary of Person 2:");
+            Console.WriteLine("$" + p2Sal);
             Console.WriteLine("");
             Console.WriteLine("Does Person 1 make more money than Person 2?");
             Console.WriteLine(salComparison);
