@@ -1,0 +1,6 @@
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP75\ExerciseP75\obj\Debug\ExerciseP75.csproj.CoreCompileInputs.cache
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP75\ExerciseP75\bin\Debug\ExerciseP75.exe.config
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP75\ExerciseP75\bin\Debug\ExerciseP75.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP75\ExerciseP75\bin\Debug\ExerciseP75.pdb
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP75\ExerciseP75\obj\Debug\ExerciseP75.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP75\ExerciseP75\obj\Debug\ExerciseP75.pdb
