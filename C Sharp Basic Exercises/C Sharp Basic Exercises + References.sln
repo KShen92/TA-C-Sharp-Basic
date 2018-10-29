@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseP94", "ExerciseP94\ExerciseP94.csproj", "{9F54171B-25B8-4C20-BE3C-D9F18A7B3DE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFunctions", "StringFunctions\StringFunctions.csproj", "{1A50A4CB-85A4-48B0-B0A2-9446F6EFF46C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseP97", "ExerciseP97\ExerciseP97.csproj", "{B1CF7769-202D-4937-AE0A-D8BD946E8D1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{9F54171B-25B8-4C20-BE3C-D9F18A7B3DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F54171B-25B8-4C20-BE3C-D9F18A7B3DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F54171B-25B8-4C20-BE3C-D9F18A7B3DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A50A4CB-85A4-48B0-B0A2-9446F6EFF46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A50A4CB-85A4-48B0-B0A2-9446F6EFF46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A50A4CB-85A4-48B0-B0A2-9446F6EFF46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A50A4CB-85A4-48B0-B0A2-9446F6EFF46C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CF7769-202D-4937-AE0A-D8BD946E8D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CF7769-202D-4937-AE0A-D8BD946E8D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CF7769-202D-4937-AE0A-D8BD946E8D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CF7769-202D-4937-AE0A-D8BD946E8D1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
