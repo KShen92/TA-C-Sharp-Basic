@@ -1,0 +1,7 @@
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP100\bin\Debug\ExerciseP100.exe.config
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP100\bin\Debug\ExerciseP100.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP100\bin\Debug\ExerciseP100.pdb
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP100\obj\Debug\ExerciseP100.csprojAssemblyReference.cache
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP100\obj\Debug\ExerciseP100.csproj.CoreCompileInputs.cache
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP100\obj\Debug\ExerciseP100.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP100\obj\Debug\ExerciseP100.pdb
