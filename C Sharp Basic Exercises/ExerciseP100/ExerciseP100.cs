@@ -31,7 +31,7 @@ namespace ExerciseP100
                 Console.WriteLine("Enter an index number for your string array.");
                 if (int.TryParse(Console.ReadLine(), out stringArrayInd))
                 {
-                    if (stringArrayInd <= stringArrayCount)
+                    if (stringArrayInd < stringArrayCount)
                     {
                         Console.WriteLine("");
                         Console.WriteLine("Your array index value is " + stringArray[stringArrayInd]);
@@ -59,7 +59,7 @@ namespace ExerciseP100
                 Console.WriteLine("Enter an index number for your integer array.");
                 if (int.TryParse(Console.ReadLine(), out intArrayInd))
                 {
-                    if (intArrayInd <= intArrayCount)
+                    if (intArrayInd < intArrayCount)
                     {
                         Console.WriteLine("");
                         Console.WriteLine("Your array index value is " + intArray[intArrayInd]);
@@ -85,7 +85,7 @@ namespace ExerciseP100
                 Console.WriteLine("Enter an index number for your string list.");
                 if (int.TryParse(Console.ReadLine(), out stringListInd))
                 {
-                    if (stringListInd <= stringListCount)
+                    if (stringListInd < stringListCount)
                     {
                         Console.WriteLine("");
                         Console.WriteLine("Your list index value is " + stringList[stringListInd]);
