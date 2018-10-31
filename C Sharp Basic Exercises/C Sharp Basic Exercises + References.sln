@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration", "Iteration\Iter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseP103", "ExerciseP103\ExerciseP103.csproj", "{320A8099-299A-4596-B2CE-46F89584D0F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{F58EA7FF-A46B-4023-A740-09D8A6179BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseP106", "ExerciseP106\ExerciseP106.csproj", "{1230BF18-F3F1-476E-8264-1E2645D831D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{320A8099-299A-4596-B2CE-46F89584D0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{320A8099-299A-4596-B2CE-46F89584D0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{320A8099-299A-4596-B2CE-46F89584D0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58EA7FF-A46B-4023-A740-09D8A6179BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58EA7FF-A46B-4023-A740-09D8A6179BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58EA7FF-A46B-4023-A740-09D8A6179BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58EA7FF-A46B-4023-A740-09D8A6179BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1230BF18-F3F1-476E-8264-1E2645D831D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1230BF18-F3F1-476E-8264-1E2645D831D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1230BF18-F3F1-476E-8264-1E2645D831D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1230BF18-F3F1-476E-8264-1E2645D831D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

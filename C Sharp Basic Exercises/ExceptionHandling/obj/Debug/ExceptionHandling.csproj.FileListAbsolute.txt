@@ -1,0 +1,6 @@
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

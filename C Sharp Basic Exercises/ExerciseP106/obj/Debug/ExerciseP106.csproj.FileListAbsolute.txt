@@ -1,0 +1,6 @@
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP106\bin\Debug\ExerciseP106.exe.config
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP106\bin\Debug\ExerciseP106.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP106\bin\Debug\ExerciseP106.pdb
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP106\obj\Debug\ExerciseP106.csproj.CoreCompileInputs.cache
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP106\obj\Debug\ExerciseP106.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP106\obj\Debug\ExerciseP106.pdb
