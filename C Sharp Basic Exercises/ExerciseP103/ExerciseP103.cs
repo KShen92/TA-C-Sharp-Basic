@@ -123,7 +123,6 @@ namespace ExerciseP103
             } while (lookupFlag2 == false);
             Console.ReadLine();
 
-            int repeatCounter = 0;
             List<string> stringList = new List<string>() { "doge", "notdoge", "doge", "bush", "notdoge", "doge" };
             List<string> stringListAlt = new List<string>();
             foreach (string listItem in stringList)
@@ -133,7 +132,10 @@ namespace ExerciseP103
                 {
                     Console.WriteLine("This item has already appeared in the list.");
                 }
-                stringListAlt.Add(listItem);
+                else
+                {
+                    stringListAlt.Add(listItem);
+                }
             }
             Console.ReadLine();
         }
