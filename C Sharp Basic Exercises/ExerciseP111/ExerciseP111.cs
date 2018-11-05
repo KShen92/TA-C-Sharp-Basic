@@ -16,7 +16,7 @@ namespace ExerciseP111
             {
                 try
                 {
-                    Console.WriteLine("Enter an integer to get fucking handled:");
+                    Console.WriteLine("Enter an integer:");
                     intNum = Convert.ToInt32(Console.ReadLine());
                     clearFlag = true;
                 }
