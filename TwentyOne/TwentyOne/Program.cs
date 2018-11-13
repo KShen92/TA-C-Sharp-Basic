@@ -21,13 +21,14 @@ namespace TwentyOne
             Console.ReadLine();
         }
 
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for (int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}   
+        //Object initialization notes
+        //Card card = new Card() { Face = "King", Suit = "Spades };
+
+        //TwentyOneGame game = new TwentyOneGame();
+        //game.Players = new List<string>() { "Jesse", "Bill", "Ken" };
+        //game.ListPlayers();
+        //game.Play();
+        //Console.ReadLine();
+
     }
 }
