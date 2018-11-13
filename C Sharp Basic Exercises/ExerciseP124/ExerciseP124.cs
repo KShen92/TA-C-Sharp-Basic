@@ -14,6 +14,10 @@ namespace ExerciseP124
             emp1.firstName = "Sample";
             emp1.lastName = "Student";
             emp1.SayName();
+
+            //ExerciseP126
+            IQuittable emp2 = new Employee();
+            emp2.Quit();
         }
     }
 }

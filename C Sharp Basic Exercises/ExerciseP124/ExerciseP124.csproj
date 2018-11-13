@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Employee.cs" />
     <Compile Include="ExerciseP124.cs" />
+    <Compile Include="IQuittable.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
