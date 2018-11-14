@@ -18,6 +18,27 @@ namespace ExerciseP124
             //ExerciseP126
             IQuittable emp2 = new Employee();
             emp2.Quit();
+
+            //ExerciseP129
+            emp1.Id = 1;
+            Employee emp3 = new Employee();
+            emp3.Id = 3;
+            Employee emp4 = new Employee();
+            emp4.Id = 1;
+            bool notEqual = false;
+            bool isEqual = false;
+
+            if ((emp1 != emp3) == true)
+            {
+                Console.WriteLine("IDs are not equal.");
+                Console.ReadLine();
+            }
+            
+            if ((emp1 == emp4) == true)
+            {
+                Console.WriteLine("These IDs ARE equal.");
+                Console.ReadLine();
+            }
         }
     }
 }

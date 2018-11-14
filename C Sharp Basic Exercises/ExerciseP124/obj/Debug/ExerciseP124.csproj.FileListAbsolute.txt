@@ -4,3 +4,4 @@ C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP124\bi
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP124\obj\Debug\ExerciseP124.csproj.CoreCompileInputs.cache
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP124\obj\Debug\ExerciseP124.exe
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP124\obj\Debug\ExerciseP124.pdb
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP124\obj\Debug\ExerciseP124.csprojAssemblyReference.cache
