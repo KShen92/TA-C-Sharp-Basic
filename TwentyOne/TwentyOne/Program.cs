@@ -38,5 +38,20 @@ namespace TwentyOne
         //game += player;
         //game = game - player;
         //game -= player;
+
+        //Enum Notes - Limits value selection to those specified by the enum
+        //Underlying value of enum selection 0 - 7, in order. Can also be specified like below.
+        //DaysOfTheWeek day = DaysOfTheWeek.Monday;
+        //public enum DaysOfTheWeek
+        //{
+        //    Monday,
+        //    Tuesday,
+        //    Wednesday,
+        //    Thursday,
+        //    Friday,
+        //    Saturday,
+        //    Sunday,
+        //    CanAlsoSetUnderlyingValueDay=10
+        //}
     }
 }
