@@ -1,0 +1,7 @@
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP137\bin\Debug\ExerciseP137.exe.config
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP137\bin\Debug\ExerciseP137.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP137\bin\Debug\ExerciseP137.pdb
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP137\obj\Debug\ExerciseP137.csprojAssemblyReference.cache
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP137\obj\Debug\ExerciseP137.csproj.CoreCompileInputs.cache
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP137\obj\Debug\ExerciseP137.exe
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP137\obj\Debug\ExerciseP137.pdb
