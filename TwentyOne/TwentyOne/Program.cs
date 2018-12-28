@@ -10,6 +10,28 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the Grant Hotel and Casino. Let's start by telling me your name.");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "yea" || answer == "ya" || answer == "y")
+            {
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
+
             Deck deck = new Deck();
             deck.Shuffle(3);
 
@@ -20,52 +42,5 @@ namespace TwentyOne
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
-
-        //Object initialization notes
-        //Card card = new Card() { Face = "King", Suit = "Spades };
-
-        //TwentyOneGame game = new TwentyOneGame();
-        //game.Players = new List<string>() { "Jesse", "Bill", "Ken" };
-        //game.ListPlayers();
-        //game.Play();
-        //Console.ReadLine();
-
-        //Game game = new TwentyOneGame();
-        //game.Players = new List<Player>();
-        //Player player = new Player();
-        //player.Name = "Ken";
-        //game = game + player;
-        //game += player;
-        //game = game - player;
-        //game -= player;
-
-        //Enum Notes - Limits value selection to those specified by the enum
-        //Underlying value of enum selection 0 - 7, in order. Can also be specified like below.
-        //DaysOfTheWeek day = DaysOfTheWeek.Monday;
-        //public enum DaysOfTheWeek
-        //{
-        //    Monday,
-        //    Tuesday,
-        //    Wednesday,
-        //    Thursday,
-        //    Friday,
-        //    Saturday,
-        //    Sunday,
-        //    CanAlsoSetUnderlyingValueDay=10
-        //}
-
-        //Lambda Function Notes
-        //int count = deck.Cards.Count(x => x.Face == Face.Ace);
-        //
-        //counts number of Face.Ace in deck.Cards
-        //
-        //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-        //
-        //creates list with Face.Kings from deck.Cards
-        //
-        //List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
-        //int sum = numberList.Where(x => x > 20).Sum();
-        //
-        //creates new list of numbers greater than 20 from numberList, sums numbers
     }
 }
