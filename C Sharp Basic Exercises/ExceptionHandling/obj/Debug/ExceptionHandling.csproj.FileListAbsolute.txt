@@ -4,3 +4,4 @@ C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandli
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\obj\Debug\ExceptionHandling.exe
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
