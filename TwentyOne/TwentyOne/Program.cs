@@ -11,11 +11,6 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            //string text = "Heart! \r\n \r\n-Moni";
-            //File.WriteAllText(@"C:\Users\Ken\Desktop\Open Folder\log.txt", text);
-            //string readText = File.ReadAllText(@"C:\Users\Ken\Desktop\Open Folder\log.txt");
-            //Console.WriteLine(readText);
-            //Console.ReadLine();
 
             Console.WriteLine("Welcome to the Grant Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();

@@ -54,5 +54,24 @@ namespace TwentyOne
         //int sum = numberList.Where(x => x > 20).Sum();
         //
         //creates new list of numbers greater than 20 from numberList, sums numbers
+
+        //Write to Notepad
+        //string text = "Heart! \r\n \r\n-Moni";
+        //File.WriteAllText(@"C:\Users\Ken\Desktop\Open Folder\log.txt", text);
+        //string readText = File.ReadAllText(@"C:\Users\Ken\Desktop\Open Folder\log.txt");
+        //Console.WriteLine(readText);
+        //Console.ReadLine();
+
+        //DateTime function
+        //DateTime yearOfBirth = new DateTime(1995, 5, 23, 8, 32, 45);
+        //DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
+        //
+        //TimeSpan ageAtGraduation = yearOfGraduation - yearOfBirth;
+        //
+        //Console.WriteLine(yearOfBirth);
+        //Console.WriteLine(yearOfGraduation);
+        //Console.WriteLine(ageAtGraduation);
+        //Console.ReadLine();
+
     }
 }
