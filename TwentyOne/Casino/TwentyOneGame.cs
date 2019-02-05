@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -93,15 +94,24 @@ namespace TwentyOne
                     {
                         Dealer.Balance += Bets[player];
                         Console.WriteLine("{0} Busted! You lose your bet of {1}. Your balance is now {2}.", player.Name, Bets[player], player.Balance);
-                        Console.WriteLine("Do you want to play again?");
-                        answer = Console.ReadLine().ToLower();
-                        if (answer == "yes" || answer == "yeah")
+                        if (player.Balance > 0)
                         {
-                            player.isActivelyPlaying = true;
-                            return;
+                            Console.WriteLine("Do you want to play again?");
+                            answer = Console.ReadLine().ToLower();
+                            if (answer == "yes" || answer == "yeah")
+                            {
+                                player.isActivelyPlaying = true;
+                                return;
+                            }
+                            else
+                            {
+                                player.isActivelyPlaying = false;
+                                return;
+                            }
                         }
                         else
                         {
+                            Console.WriteLine("You are out of funds!");
                             player.isActivelyPlaying = false;
                             return;
                         }

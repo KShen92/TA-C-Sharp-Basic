@@ -5,3 +5,13 @@ C:\Users\Ken\myProjects\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
