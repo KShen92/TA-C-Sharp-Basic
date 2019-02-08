@@ -5,3 +5,10 @@ C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\ob
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\obj\Debug\ExerciseP156.csproj.CoreCompileInputs.cache
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\obj\Debug\ExerciseP156.exe
 C:\Users\Ken\myProjects\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\obj\Debug\ExerciseP156.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\bin\Debug\ExerciseP156.exe.config
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\bin\Debug\ExerciseP156.exe
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\bin\Debug\ExerciseP156.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\obj\Debug\ExerciseP156.csprojAssemblyReference.cache
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\obj\Debug\ExerciseP156.csproj.CoreCompileInputs.cache
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\obj\Debug\ExerciseP156.exe
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP156\obj\Debug\ExerciseP156.pdb

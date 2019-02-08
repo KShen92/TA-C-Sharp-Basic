@@ -1,0 +1,6 @@
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP162\bin\Debug\ExerciseP162.exe.config
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP162\bin\Debug\ExerciseP162.exe
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP162\bin\Debug\ExerciseP162.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP162\obj\Debug\ExerciseP162.csproj.CoreCompileInputs.cache
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP162\obj\Debug\ExerciseP162.exe
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP162\obj\Debug\ExerciseP162.pdb

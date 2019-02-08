@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9DFF68DB-D657-4BE1-AAA4-967AF2554890}</ProjectGuid>
+    <ProjectGuid>{1723C648-0BEA-4B43-8700-470A7C7C90F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ExerciseP162</RootNamespace>
     <AssemblyName>ExerciseP162</AssemblyName>
@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Construct.cs" />
+    <Compile Include="ExerciseP162.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
