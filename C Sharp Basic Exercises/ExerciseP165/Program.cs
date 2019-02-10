@@ -18,10 +18,14 @@ namespace ExerciseP165
                 try
                 {
                     Console.WriteLine("Please enter your age:");
-                    validInput = int.TryParse(Console.ReadLine(), out userAge);
+                    int.TryParse(Console.ReadLine(), out userAge);
                     if (userAge <= 0)
                     {
                         throw new ZeroNegException();
+                    }
+                    else
+                    {
+                        validInput = true;
                     }
                 }
                 catch (ZeroNegException)
