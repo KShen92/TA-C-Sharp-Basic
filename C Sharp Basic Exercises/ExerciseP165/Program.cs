@@ -18,7 +18,7 @@ namespace ExerciseP165
                 try
                 {
                     Console.WriteLine("Please enter your age:");
-                    int.TryParse(Console.ReadLine(), out userAge);
+                    userAge = Convert.ToInt32(Console.ReadLine());
                     if (userAge <= 0)
                     {
                         throw new ZeroNegException();

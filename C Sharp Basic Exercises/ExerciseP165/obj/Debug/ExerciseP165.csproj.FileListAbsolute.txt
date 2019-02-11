@@ -4,3 +4,4 @@ D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP165\bin\Debug\
 D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP165\obj\Debug\ExerciseP165.csproj.CoreCompileInputs.cache
 D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP165\obj\Debug\ExerciseP165.exe
 D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP165\obj\Debug\ExerciseP165.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\C Sharp Basic Exercises\ExerciseP165\obj\Debug\ExerciseP165.csprojAssemblyReference.cache
