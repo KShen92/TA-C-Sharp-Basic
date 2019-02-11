@@ -31,12 +31,10 @@ namespace ExerciseP165
                 catch (ZeroNegException)
                 {
                     Console.WriteLine("Please enter an age greater than 0.");
-                    validInput = false;
                 }
                 catch (Exception)
                 {
                     Console.WriteLine("Invalid input.");
-                    validInput = false;
                 }
             }
 
