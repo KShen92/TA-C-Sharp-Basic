@@ -3,4 +3,3 @@ D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\Casino\bin\Debug\Casino.dll
 D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\Casino\bin\Debug\Casino.pdb
 D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\Casino\obj\Debug\Casino.dll
 D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\Casino\obj\Debug\Casino.pdb
-D:\Tech Academy\TA-C-Sharp-Basic\TwentyOne\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
