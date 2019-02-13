@@ -1,0 +1,80 @@
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\MVC App.dll.config
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\MVC App.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\MVC App.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\csc.exe
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\csc.exe.config
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\csc.rsp
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\csi.exe
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\csi.exe.config
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\csi.rsp
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.AppContext.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Collections.Immutable.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Console.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.IO.Compression.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.IO.FileSystem.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.IO.Pipes.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Security.AccessControl.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Security.Claims.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.ValueTuple.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Xml.XPath.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\vbc.exe
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\vbc.exe.config
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\vbc.rsp
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\VBCSCompiler.exe
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\roslyn\VBCSCompiler.exe.config
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Antlr3.Runtime.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Microsoft.Web.Infrastructure.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Newtonsoft.Json.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Helpers.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Mvc.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Optimization.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Razor.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.WebPages.Deployment.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.WebPages.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.WebPages.Razor.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\WebGrease.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Helpers.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Mvc.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Optimization.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.Razor.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.WebPages.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.WebPages.Deployment.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Web.WebPages.Razor.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Newtonsoft.Json.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Antlr3.Runtime.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\obj\Debug\MVC App.csprojAssemblyReference.cache
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\obj\Debug\MVC App.csproj.CoreCompileInputs.cache
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\obj\Debug\MVC App.csproj.CopyComplete
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\obj\Debug\MVC App.dll
+D:\Tech Academy\TA-C-Sharp-Basic\Web Apps\MVC App\MVC App\obj\Debug\MVC App.pdb
