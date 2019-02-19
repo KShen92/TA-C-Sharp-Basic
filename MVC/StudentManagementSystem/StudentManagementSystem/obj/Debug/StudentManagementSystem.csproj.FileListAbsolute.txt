@@ -73,7 +73,6 @@ D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSy
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSystem\bin\System.Diagnostics.DiagnosticSource.xml
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CopyComplete
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.dll
