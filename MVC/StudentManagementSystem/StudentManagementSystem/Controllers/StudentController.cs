@@ -67,7 +67,7 @@ namespace StudentManagementSystem.Controllers
 
         public ActionResult Details(int id)
         {
-            string queryString = "Select * From Students where id = @id";
+            string queryString = "Select * From Students where Id = @id";
             Student student = new Student();
 
             using (SqlConnection connection = new SqlConnection(_connectionString))
@@ -93,7 +93,7 @@ namespace StudentManagementSystem.Controllers
 
         public ActionResult Edit(int id)
         {
-            string queryString = "Select * From Students where id = @id";
+            string queryString = "Select * From Students where Id = @id";
             Student student = new Student();
 
             using (SqlConnection connection = new SqlConnection(_connectionString))
