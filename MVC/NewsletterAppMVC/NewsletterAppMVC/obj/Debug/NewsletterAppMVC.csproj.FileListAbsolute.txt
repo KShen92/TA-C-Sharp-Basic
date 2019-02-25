@@ -73,8 +73,8 @@ D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\Antlr
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\System.Diagnostics.DiagnosticSource.xml
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csprojAssemblyReference.cache
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
+D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csprojAssemblyReference.cache
