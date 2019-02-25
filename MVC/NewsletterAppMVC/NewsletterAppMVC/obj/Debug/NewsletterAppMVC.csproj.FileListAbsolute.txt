@@ -78,3 +78,7 @@ D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
 D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csprojAssemblyReference.cache
+D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.dll
+D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
+D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.xml
+D:\Tech Academy\TA-C-Sharp-Basic\MVC\NewsletterAppMVC\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
